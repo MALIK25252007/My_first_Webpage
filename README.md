@@ -1,54 +1,9 @@
-# 🌟 My First Webpage
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:FFC3A0&height=160&section=header&text=My%20First%20Webpage&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20it%20all%20began&descAlignY=62&descSize=16" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=19&pause=1000&color=FF8C69&center=true&vCenter=true&width=550&lines=The+First+HTML%2FCSS+Page+I+Ever+Built;Every+Developer+Starts+Somewhere+%F0%9F%8C%B1;Still+Here%2C+Still+Learning" /> </p> <p align="center"> <a href="https://malik25252007.github.io/My_first_Webpage/"> <img src="https://img.shields.io/badge/🌱_View_the_Beginning-FF8C69?style=for-the-badge&labelColor=FFAFBD" /> </a> <img src="https://img.shields.io/badge/Milestone-First_Project-FFC3A0?style=for-the-badge&labelColor=FF8C69" /> </p>
+🌱 About
 
-A homepage for a website using **pure HTML5 and CSS3**. Also a sign-in box with attractive hover effects.
+This is where my coding journey actually started — my very first webpage, built while learning the basics of HTML and CSS: navigation bars, a hero section, and a login form UI. It's not polished, and that's the point — it's a snapshot of day one.
 
----
+I'm keeping this repo exactly as it was built, unedited, as a marker of progress. Compare it to my newer projects and you'll see how far the journey's come.
 
-## 🚀 Live Demo
-
-Check out the interactive preview: **https://MALIK25252007.github.io/My_first_Webpage/**
-<br><br>
-## Reference Image
-<br><br>
-<img width="1512" height="785" alt="Screenshot 2026-07-13 164546" src="https://github.com/user-attachments/assets/ac10c064-895d-4907-b960-74f1a00dc8e6" />
-
----
-
-## 🛠️ Features
-
-*   **Pure HTML & CSS:** No JavaScript or external libraries required.
-*   **header with nav panel:** Utilizes layered `box-shadow`, `drop-shadow`, and CSS pseudo-elements (`::before`, `::after`) for smooth lighting effects.
-*   **Performance Optimized:** Smooth 60fps animations using hardware-accelerated CSS properties .
-*   **Theme Ready:** Built using CSS variables for easy color customization.
-
----
-
-## 📂 Project Structure
-
-```text
-├── index.html        # Showcase page for all glowing styles
-├── style.css         # Core animations and glow effects
-└── README.md         # Documentation
-
-🤝 Contributing
-Got a cool glow effect idea? Feel free to contribute!
-
-1. Fork the project.
-
-2. Create your feature branch (git checkout -b feature/NewGlowEffect).
-
-3. Commit your updates (git commit -m 'Add NewGlowEffect').
-
-4. Push to the branch (git push origin feature/NewGlowEffect).
-
-5. Open a Pull Request.
-
-📄 License
- Free for personal and commercial projects!
-
-⭐ If you like this project, consider giving it a star on GitHub!
-
-Created with 💖 by Tarun Malik
-
-
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-FF8C69?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-FF8C69?style=flat-square&logo=css3&logoColor=white" /> </p>
 
